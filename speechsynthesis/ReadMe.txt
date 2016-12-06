@@ -1,6 +1,9 @@
 ========================================================================
     CONSOLE APPLICATION : speechsynthesis Project Overview
 ========================================================================
+speech synthesis program here is a visual studio console application project whose tutorial can be found on https://www.youtube.com/watch?v=N4dG34_jjHk
+
+have a look at speechsynthesis.cpp and StdAfx.h
 
 AppWizard has created this speechsynthesis application for you.
 
